@@ -1,9 +1,9 @@
 🛠️ Uber Trip Analysis Dashboard
 
 📌 Overview  
-The **Uber Trip Analysis Dashboard** is a dynamic Power BI solution designed to explore and visualize ride-hailing data across operational, temporal, and geographic dimensions. It offers a multi-layered view of booking trends, vehicle performance, customer preferences, and trip-level details — empowering stakeholders with actionable insights for strategic planning and service optimization.
+The **Uber Trip Analysis Dashboard** is an interactive Power BI solution designed to explore ride-hailing data across operational, temporal, and geographic dimensions. It provides a centralized view of booking trends, vehicle performance, customer preferences, and trip-level details — enabling data-driven decisions and service optimization.
 
-This dashboard enables users to monitor key metrics, uncover peak demand periods, evaluate vehicle and payment preferences, and analyze individual trip records with precision.
+This dashboard helps stakeholders monitor KPIs, uncover peak demand periods, evaluate vehicle and payment preferences, and analyze individual trip records with precision.
 
 🎯 Objectives  
 The primary objectives of this dashboard are to:
@@ -44,7 +44,7 @@ The primary objectives of this dashboard are to:
 - Aggregated totals for passengers, distance, and revenue  
 
 🧩 Data Model  
-The dashboard utilizes a structured dataset containing:
+The dashboard uses a structured dataset containing:
 
 - **Trip Data**: Trip ID, pickup date/time, vehicle type, payment method, passenger count, trip distance, booking value, location  
 - **Aggregated Metrics**: Total bookings, revenue, average trip stats  
@@ -52,9 +52,9 @@ The dashboard utilizes a structured dataset containing:
 - **Geographic Data**: Neighborhoods and preferred vehicle types  
 
 🧰 Tools & Technologies  
-- **Power BI Desktop** – Dashboard development and data modeling  
-- **DAX (Data Analysis Expressions)** – Custom measures for KPIs and time intelligence  
-- **Excel/CSV Files** – Data preparation and import  
+- Power BI Desktop – Dashboard development and data modeling  
+- DAX (Data Analysis Expressions) – Custom measures for KPIs and time intelligence  
+- Excel/CSV Files – Data preparation and import  
 
 🧭 Dashboard Structure  
 
@@ -69,5 +69,3 @@ The dashboard utilizes a structured dataset containing:
 3️⃣ Trip Details Page  
 - Granular ride-level data with multi-filtering options  
 - Aggregated totals for key metrics  
-
-📁 Repository Layout  
