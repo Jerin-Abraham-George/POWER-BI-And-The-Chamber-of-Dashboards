@@ -5,6 +5,8 @@ The Technical Support Performance Dashboard is an interactive Power BI solution 
 
 This dashboard helps stakeholders quickly identify performance gaps, track SLA adherence, and gain actionable insights into customer support activities.
 
+https://github.com/user-attachments/assets/2e9f796c-297a-4fd2-aa57-5d6cfbf0cc8d
+
 ---
 
 ## 🎯 Objectives
