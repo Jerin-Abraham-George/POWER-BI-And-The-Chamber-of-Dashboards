@@ -3,6 +3,8 @@
 ## 📌 Overview
 The Uber Analytics Dashboard is an interactive Power BI solution designed to explore and analyze ride-sharing data across cities, customer segments, and time periods. It provides actionable insights into trip volumes, customer behavior, peak demand patterns, and supply-demand dynamics—empowering stakeholders to make informed decisions for operational efficiency and strategic growth.
 
+https://github.com/user-attachments/assets/abc020a8-d2a2-482b-a07d-0ceec0dcc1f4
+
 ---
 
 ## 🎯 Objectives
