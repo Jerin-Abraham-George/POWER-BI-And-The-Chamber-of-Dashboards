@@ -7,6 +7,8 @@ This dashboard enables stakeholders to track progress, assess efficiency, and id
 
 ![Dashboard Image](https://github.com/Jerin-Abraham-George/Power-BI-Projects/blob/main/Project-Control-Dashboard/Dashboard%20Image.jpg)
 
+https://github.com/user-attachments/assets/5dbb1ba2-a243-433f-b1ff-fcdb8f5792ba
+
 ---
 
 ## 🎯 Objectives
