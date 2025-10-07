@@ -6,6 +6,8 @@ The Project Control Dashboard is an interactive Power BI solution designed to mo
 This dashboard enables stakeholders to track progress, assess efficiency, and identify potential delays or resource constraints across multiple workstreams.
 
 ![Dashboard Image](https://github.com/Jerin-Abraham-George/Power-BI-Projects/blob/main/Project-Control-Dashboard/Dashboard%20Image.jpg)
+
+![Dashboard Demo}(https://github.com/Jerin-Abraham-George/Power-BI-Projects/blob/main/Project-Control-Dashboard/Dashboard%20Demo.mp4)
 ---
 
 ## 🎯 Objectives
