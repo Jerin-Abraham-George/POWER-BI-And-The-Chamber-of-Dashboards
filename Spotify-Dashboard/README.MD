@@ -81,7 +81,7 @@ This is a two page dashboard that includes:
 
 ## ✅ Result
 
-This dashboard erevealed:
+This dashboard revealed:
 - A strong preference for classic rock, with The Beatles dominating across all categories
 - Weekend listening activity significantly outpaces weekday engagement
 - Peak listening hours occur late at night and early evening
