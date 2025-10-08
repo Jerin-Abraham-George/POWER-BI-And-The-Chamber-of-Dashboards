@@ -5,6 +5,8 @@ The Spotify Listening Dashboard is an interactive Power BI report designed to an
 
 This dashboard helps users and analysts uncover trends in listening frequency, identify peak engagement hours, and explore global hotspots for music consumption.
 
+https://github.com/user-attachments/assets/7f555840-f5d5-4514-b2cd-e292cc0dd35c
+
 ---
 
 ## 🎯 Objectives
