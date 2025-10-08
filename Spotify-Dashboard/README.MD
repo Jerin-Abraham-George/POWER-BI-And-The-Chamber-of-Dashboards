@@ -88,5 +88,5 @@ This dashboard revealed:
 - Weekend listening activity significantly outpaces weekday engagement
 - Peak listening hours occur late at night and early evening
 - Streaming volume declined slightly year-over-year, suggesting seasonal or behavioral shifts
-- The United States remains the dominant market, followed by key European countries
+- The United States remains the dominant market, followed by Brazil, UK, Mexico and India
 
