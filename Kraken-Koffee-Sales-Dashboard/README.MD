@@ -5,6 +5,8 @@ The Kraken Koffee Sales Dashboard is an interactive Power BI solution designed t
 
 This dashboard enables stakeholders to monitor trends, identify peak revenue periods, and assess product-level contributions to overall sales momentum.
 
+https://github.com/user-attachments/assets/eb65127c-11fd-49d4-ab9e-37d0c56ef2ca
+
 ---
 
 ## 🎯 Objectives
