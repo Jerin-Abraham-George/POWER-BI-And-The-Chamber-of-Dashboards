@@ -103,3 +103,5 @@ This dashboard enabled Kraken Koffee’s leadership to:
 - Forecast realistic and stretch goals for 2023
 - Strategically plan inventory and staffing across Florida stores
 
+---
+
