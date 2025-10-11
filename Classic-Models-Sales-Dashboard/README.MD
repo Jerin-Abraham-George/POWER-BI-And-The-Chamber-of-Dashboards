@@ -44,7 +44,7 @@ The primary objectives of this dashboard are to:
 
 ### 📅 Sales by Period
 - **Monthly Breakdown:** June 2003 - May 2005
-- **- Consistent Monthly Sales:** - ~$1.98M per month
+- **Consistent Monthly Sales:** - ~$1.98M per month
 - **Initial Spike:** March 2003 - 1.6M
 - **SStable Growth** Maintained through 2004 & 2005
 
