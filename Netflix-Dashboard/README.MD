@@ -5,6 +5,8 @@ The Netflix Analytics Dashboard is a Power BI solution designed to explore globa
 
 This dashboard empowers stakeholders to analyze content popularity, identify high-performing genres, and benchmark Netflix against major streaming competitors.
 
+https://github.com/user-attachments/assets/6b74ede2-5ac7-48a1-b098-930f6372dd13
+
 ---
 
 ## 🎯 Objectives
