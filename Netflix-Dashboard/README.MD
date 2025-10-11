@@ -61,3 +61,15 @@ The primary objectives of this dashboard are to:
 ### 📊 Genre Performance
 - **Top Genre by Avg. Rating:** War, Film-Noir, Music
 - **Genres with Most Titles:** Comedy, Action, Drama
+
+### 🏆 Streaming Competitor Compariso
+| Platform     | Subscribers | Revenue |
+|-----------|----------------|-------------------|
+| Netflix     | 230M         | $31.6B         |
+| Amazon Prime   | 200M+          | $10.5B         |
+| Disney +     | 164M          | $5.5B          |
+| HBO Max     | 90M          | $7.5B          |
+| Hulu   | 47M          | $4.4B          |
+
+---
+
