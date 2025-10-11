@@ -5,6 +5,8 @@ The Classic Models Sales Dashboard is a dynamic Power BI solution designed to an
 
 This dashboard empowers stakeholders to explore sales hierarchies, monitor time-based performance, and identify high-value clients driving revenue across regions.
 
+https://github.com/user-attachments/assets/727e0ae3-1930-4ab3-840c-f17f119c2306
+
 ---
 
 ## 🎯 Objectives
