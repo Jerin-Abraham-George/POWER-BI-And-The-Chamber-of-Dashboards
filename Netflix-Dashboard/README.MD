@@ -27,7 +27,7 @@ The primary objectives of this dashboard are to:
 - Total Votes: 1.17 Billion
 
 ### 🎯 Rating Distribution
-| Rating Group     | #Titles |
+| Rating Group     | # Titles |
 |-----------|----------------|
 | 9    | 34|
 | 8  | 735|
@@ -40,7 +40,7 @@ The primary objectives of this dashboard are to:
 | 1    | 2|
 
 ### 🌍 Country-Level Insight
-| Country     | #Titles | Avg. Rating |
+| Country     | # Titles | Avg. Rating |
 |-----------|----------------|-------------------|
 | United States     | 2,355         | 6.7         |
 | United Kingdom   | 457          | 7.1          |
@@ -49,4 +49,11 @@ The primary objectives of this dashboard are to:
 | India   | 217          | 6.3          |
 | Australia     | 71          | 7.0          |
 
-
+### 🎥 Top Titles by Rating
+| Title     | Rating |
+|-----------|----------------|
+| Breaking Bad     | 9.4 |
+| Stranger Things: Spotlight   | 9.4|
+| Fargo     | 9.3|
+| Avatar: The Last Airbender     | 9.3|
+| Our Planet    | 9.3|
