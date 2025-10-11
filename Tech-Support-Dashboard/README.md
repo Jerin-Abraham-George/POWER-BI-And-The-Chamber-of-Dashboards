@@ -80,7 +80,7 @@ The dashboard uses a structured dataset containing:
 
 ### 3️⃣ SLA & Global View Page
 - SLA achieved vs. violated for first response and resolution  
-- SLA breakdown by priority and channel  
+- SLA breakdown by priority & channel  
 - Global heatmap for tickets by country and issue type  
 
 ### 4️⃣ Agent's Performance
