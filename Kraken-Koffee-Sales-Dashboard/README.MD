@@ -89,7 +89,6 @@ The primary objectives of this dashboard are to:
 ## 🧭 Dashboard Structure
 
 This is a single-page dashboard that includes:
-This is a single-page dashboard that includes:
 - Store-wise performance metrics
 - Hourly and daily sales breakdown
 - Product-level revenue analysis
