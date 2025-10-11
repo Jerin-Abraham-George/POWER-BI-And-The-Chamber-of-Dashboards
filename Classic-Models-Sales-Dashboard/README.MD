@@ -32,13 +32,13 @@ The primary objectives of this dashboard are to:
 
 ### 🌍 Top 5 Country by Sales
 
-| Country         | Sales |
-|-----------------|----------------|
-| USA           | $3.3M         |
-| Spain        | $1.1M          |
-| France      | $1.0M          |
-| Australia   | $0.6M          |
-| New Zealand | $0.5M          |
+  | Country         | Sales |
+  |-----------------|----------------|
+  | USA           | $3.3M         |
+  | Spain        | $1.1M          |
+  | France      | $1.0M          |
+  | Australia   | $0.6M          |
+  | New Zealand | $0.5M          |
 
 ---
 
