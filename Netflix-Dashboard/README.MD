@@ -25,3 +25,20 @@ The primary objectives of this dashboard are to:
 - TV Shows: 2,955  Avg. Rating: 7.2  Votes: 43M
 - Overall Avg. Rating: 6.7
 - Total Votes: 1.17 Billion
+
+---
+
+## 🎯 Rating Distribution
+| Rating Group     | #Titles |
+|-----------|----------------|
+| 9    | 34|
+| 8  | 735|
+| 7    | 1,813|
+| 6   | 1,631|
+| 5     | 868|
+| 4     | 358|
+| 3  | 132|
+| 2    | 30|
+| 1    | 2|
+
+
