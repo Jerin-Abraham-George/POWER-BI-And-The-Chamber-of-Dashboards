@@ -73,3 +73,33 @@ The primary objectives of this dashboard are to:
 
 ---
 
+## 🧰 Tools & Technologies
+
+- **Power BI Desktop** – Dashboard development and data modeling  
+- **DAX (Data Analysis Expressions)** – Custom measures for rating, votes and genre analysis
+- **Excel/CSV Files** – Used for data import and preprocessing
+
+---
+
+## 🧭 Dashboard Structure
+This is a single-page dashboard that includes:
+- Title and rating distribution visuals
+- Genre-wise performance metrics
+- Country-level breakdowns
+- Top-rated content showcase
+- Streaming platform comparison
+
+---
+
+## ✅ Result
+This dashboard enabled Netflix analysts and stakeholders to:
+- Quantify platform-wide content volume and viewer engagement
+- Identify top-rated titles and genres driving audience interest
+- Visualize rating distribution to assess content quality spread
+- Compare Netflix’s global performance with major competitors
+- Analyze country-level content trends and regional preferences
+
+---
+
+
+
