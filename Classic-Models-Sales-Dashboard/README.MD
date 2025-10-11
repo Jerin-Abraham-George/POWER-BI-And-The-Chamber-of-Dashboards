@@ -1,4 +1,4 @@
-# 🚗 Classic Models Sales Dashboard – 2003–2005 Performance Review
+# 🚗 Classic Models Sales Dashboard : 2003 – 2005 Performance Review
 
 ## 📌 Overview
 The Classic Models Sales Dashboard is a dynamic Power BI solution designed to analyze multi-year sales performance across global offices. It highlights sales distribution by country, product line, and customer, while offering granular insights into monthly trends and customer-level contributions.
