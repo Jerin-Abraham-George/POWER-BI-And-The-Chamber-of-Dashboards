@@ -32,7 +32,7 @@ The primary objectives of this dashboard are to:
 
 ### 🌍 Top 5 Country by Sales
 
-| Country         | Avg Order Size |
+| Country         | Sales |
 |-----------------|----------------|
 | 🇺🇸 USA           | $3.3M         |
 | 🇪🇸 Spain        | $1.1M          |
@@ -42,7 +42,7 @@ The primary objectives of this dashboard are to:
 
 ---
 
-### 📅 Sales by Perio
+### 📅 Sales by Period
 - **Monthly Breakdown:** June 2003 - May 2005
 - **- Consistent Monthly Sales:** - ~$1.98M per month
 - **Initial Spike:** March 2003 - 1.6M
