@@ -57,3 +57,7 @@ The primary objectives of this dashboard are to:
 | Fargo     | 9.3|
 | Avatar: The Last Airbender     | 9.3|
 | Our Planet    | 9.3|
+
+### 📊 Genre Performance
+- **Top Genre by Avg. Rating:** War, Film-Noir, Music
+- **Genres with Most Titles:** Comedy, Action, Drama
