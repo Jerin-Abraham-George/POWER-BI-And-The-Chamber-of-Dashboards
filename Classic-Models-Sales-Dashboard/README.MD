@@ -34,11 +34,11 @@ The primary objectives of this dashboard are to:
 
 | Country         | Sales |
 |-----------------|----------------|
-| 🇺🇸 USA           | $3.3M         |
-| 🇪🇸 Spain        | $1.1M          |
-| 🇫🇷 France      | $1.0M          |
-| 🇦🇺 Australia   | $0.6M          |
-| 🇳🇿 New Zealand | $0.5M          |
+| USA           | $3.3M         |
+| Spain        | $1.1M          |
+| France      | $1.0M          |
+| Australia   | $0.6M          |
+| New Zealand | $0.5M          |
 
 ---
 
@@ -46,7 +46,7 @@ The primary objectives of this dashboard are to:
 - **Monthly Breakdown:** June 2003 - May 2005
 - **Consistent Monthly Sales:** - ~$1.98M per month
 - **Initial Spike:** March 2003 - 1.6M
-- **SStable Growth** Maintained through 2004 & 2005
+- **Stable Growth** Maintained through 2004 & 2005
 
 ---
 
