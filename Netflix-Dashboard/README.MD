@@ -19,16 +19,14 @@ The primary objectives of this dashboard are to:
 
 ## 🌟 Key Features
 
-✅ Platform Overview
+### ✅ Platform Overview
 - Total Titles: 5,603
 - Movies: 2,648  Avg. Rating: 6.1  Votes: 74M
 - TV Shows: 2,955  Avg. Rating: 7.2  Votes: 43M
 - Overall Avg. Rating: 6.7
 - Total Votes: 1.17 Billion
 
----
-
-## 🎯 Rating Distribution
+### 🎯 Rating Distribution
 | Rating Group     | #Titles |
 |-----------|----------------|
 | 9    | 34|
@@ -41,7 +39,14 @@ The primary objectives of this dashboard are to:
 | 2    | 30|
 | 1    | 2|
 
----
-
+### 🌍 Country-Level Insight
+| Country     | #Titles | Avg. Rating |
+|-----------|----------------|-------------------|
+| United States     | 2,355         | 6.7         |
+| United Kingdom   | 457          | 7.1          |
+| Japan     | 379          | 7.2          |
+| South Korea     | 295          | 7.4          |
+| India   | 217          | 6.3          |
+| Australia     | 71          | 7.0          |
 
 
