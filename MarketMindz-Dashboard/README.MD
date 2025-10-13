@@ -3,6 +3,7 @@
 ## 📌 Overview
 The MarketMindz Dashboard is a comprehensive Power BI solution designed to visualize and analyze marketing campaign performance, buyer demographics, and purchase drivers. It integrates multiple data perspectives to support strategic decision-making for targeted campaigns and customer segmentation.
 
+https://github.com/user-attachments/assets/2309b6b4-f89f-46ae-b3a9-5b6718cc1b19
 
 ---
 
