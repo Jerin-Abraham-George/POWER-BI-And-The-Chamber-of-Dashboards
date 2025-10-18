@@ -3,6 +3,8 @@
 ## 🌟 Overview 
 The **HR Analytics Dashboard** is an interactive Power BI dashboard designed to provide insights into employee headcount, retention, and turnover over a given period. This dashboard allows HR professionals and business leaders to make data-driven decisions based on key employee metrics.
 
+https://github.com/user-attachments/assets/abcc4cea-f3a7-401c-aa99-6768dd086f89
+
 ---
 
 ## ⚙️ Features 
