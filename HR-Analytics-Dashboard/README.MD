@@ -16,31 +16,22 @@ https://github.com/user-attachments/assets/abcc4cea-f3a7-401c-aa99-6768dd086f89
 
 
 ## 📈 Key Metrics 
-### 1. **Employee Headcount**:
+### 1. **Employee Headcount 👨‍👨‍👦‍👦**:
    - Total headcount: **2,796** employees.
    - Breakdown by department (e.g., Software, Sales, HR, Marketing).
    - Demographics: Headcount by gender, age, race & ethnicity, education level, marital status.
    - Location analysis: On-site vs. remote work.
 
-### 2. **Employee Retention**:
+### 2. **Employee Retention 🤝**:
    - Retention percentage over the years.
    - Retention by department and job level.
    - Insights into how retention has evolved based on education levels.
 
-### 3. **Employee Turnover**:
+### 3. **Employee Turnover 👥**:
    - Turnover percentage by year and department.
    - Breakdown by job level (e.g., Manager, Director, Individual Contributor).
    - Analysis of voluntary vs involuntary turnover.
    - Termination reasons for departing employees (e.g., better salary, career change, personal reasons).
-
----
-
-## 📊 Data Insights
-- **Highest Headcount by Department**: Software (543 employees), followed by Sales (417 employees).
-- **Employee Distribution**: Majority of employees are Individual Contributors (2,094 employees).
-- **Retention Rate**: Retention has improved from 92.9% in 2013 to 97.3% in 2019.
-- **Turnover Rate**: Turnover decreased from 5.7% in 2013 to 2.6% in 2019.
-- **Most Common Termination Reasons**: Career change, found a better opportunity, and better salary.
 
 ---
 
