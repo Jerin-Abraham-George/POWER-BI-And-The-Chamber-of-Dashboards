@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/abcc4cea-f3a7-401c-aa99-6768dd086f89
 
 This **HR Analytics Dashboard** is more than just a visualization tool — it's a strategic asset for data-driven decision-making across all levels of the organization. Here's how it benefits different stakeholders:
 
---
+---
 
 ### 👥 For HR Teams  
 **Goal:** Improve workforce planning, employee experience, and HR operations.
@@ -57,7 +57,7 @@ This **HR Analytics Dashboard** is more than just a visualization tool — it's 
 - 🧑‍💼 **Optimize Hiring Strategy**: Track department growth and fill critical gaps efficiently.
 - 🎯 **Improve Retention Programs**: Measure the impact of HR policies on employee retention over time.
 
---
+---
 
 ### 🏢 For Senior Management & Executives  
 **Goal:** Align HR strategy with organizational goals and reduce operational costs.
