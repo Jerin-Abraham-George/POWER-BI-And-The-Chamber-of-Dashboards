@@ -2,6 +2,8 @@
 
 An interactive **Power BI** dashboard designed to provide a holistic view of a family's financial performance—track income, expenses, savings, and net balance, all in one place.
 
+https://github.com/user-attachments/assets/ba23cbff-71a2-4236-971d-c4b85eab6d59
+
 ---
 
 ## 🔍 Overview
