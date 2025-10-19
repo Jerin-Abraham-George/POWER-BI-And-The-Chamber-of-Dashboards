@@ -53,7 +53,7 @@ Whether you're planning your monthly budget or analyzing year-over-year savings 
 - **Power BI Desktop** – Data visualization & dashboard creation  
 - **DAX** – Data modeling and custom calculations  
 - **Power Query** – Data transformation and loading  
-- **Excel / CSV** – Sample data source files (optional)
+- **Excel / CSV** – Sample data source files
 
 ---
 
