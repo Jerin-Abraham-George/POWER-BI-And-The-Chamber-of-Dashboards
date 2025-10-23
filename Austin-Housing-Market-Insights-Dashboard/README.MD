@@ -32,25 +32,25 @@ It helps users explore property trends, evaluate buyer composition, and uncover 
 
 ## 🗂️ Dashboard Structure
 This is a single page dashboard (with bookmarks implemented) that includes:
-├── 🏠 Summary View
-│ ├── Overall property metrics (count, median price, living area, lot size)
-│ ├── Property type distribution (Single Family, Condo, Townhouse, etc.)
-│ ├── Median vs. Average home price by type
-│ ├── Property features summary (garage, spa, view, etc.)
-│ └── Geographic overview by ZIP code
-│
-├── 📍 Location View
-│ ├── Interactive map of all Austin properties
-│ ├── Price range slider to filter listings
-│ ├── Location-based clustering for market density
-│ └── Geographic visualization of property concentrations
-│
-├── 🎓 School View
-│ ├── School and community proximity insights
-│ ├── Evaluation of properties near educational institutions
-│ └── Support for family-focused housing evaluation
-│
-└── 💡 Feature View
-├── Analysis of housing attributes affecting price (e.g., pool, garage, view)
-├── AI-driven insights on feature correlations with market value
-└── Emerging trends influencing buyer interest
+- 🏠 **Summary View:**
+    1️⃣ Overall property metrics (count, median price, living area, lot size)
+    2️⃣ Property type distribution (Single Family, Condo, Townhouse, etc.)
+    3️⃣ Median vs. Average home price by type
+    4️⃣ Property features summary (garage, spa, view, etc.)
+    5️⃣ Geographic overview by ZIP code
+
+- 📍 **Location View:**
+    1️⃣ Interactive map of all Austin properties
+    2️⃣ Price range slider to filter listings
+    3️⃣ Location-based clustering for market density
+    4️⃣ Geographic visualization of property concentrations
+
+- 🎓 **School View:**
+    1️⃣ School and community proximity insights
+    2️⃣ Evaluation of properties near educational institutions
+    3️⃣ Support for family-focused housing evaluation
+
+- 💡 *Feature View:**
+    1️⃣ Analysis of housing attributes affecting price (e.g., pool, garage, view)
+    2️⃣ AI-driven insights on feature correlations with market value
+    3️⃣ Emerging trends influencing buyer interest
