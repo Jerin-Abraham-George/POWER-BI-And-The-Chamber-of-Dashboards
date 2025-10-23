@@ -31,26 +31,39 @@ It helps users explore property trends, evaluate buyer composition, and uncover 
 ---
 
 ## 🗂️ Dashboard Structure
-This is a single page dashboard (with bookmarks implemented) that includes:
-- 🏠 **Summary View:**
-    1️⃣ Overall property metrics (count, median price, living area, lot size)
-    2️⃣ Property type distribution (Single Family, Condo, Townhouse, etc.)
-    3️⃣ Median vs. Average home price by type
-    4️⃣ Property features summary (garage, spa, view, etc.)
-    5️⃣ Geographic overview by ZIP code
 
-- 📍 **Location View:**
-    1️⃣ Interactive map of all Austin properties
-    2️⃣ Price range slider to filter listings
-    3️⃣ Location-based clustering for market density
-    4️⃣ Geographic visualization of property concentrations
+This is a **single-page Power BI dashboard** (with **bookmarks implemented**) that includes the following views:
 
-- 🎓 **School View:**
-    1️⃣ School and community proximity insights
-    2️⃣ Evaluation of properties near educational institutions
-    3️⃣ Support for family-focused housing evaluation
+---
 
-- 💡 *Feature View:**
-    1️⃣ Analysis of housing attributes affecting price (e.g., pool, garage, view)
-    2️⃣ AI-driven insights on feature correlations with market value
-    3️⃣ Emerging trends influencing buyer interest
+### 🏠 Summary View
+1️⃣ **Overall Property Metrics:** Property count, median price, living area, and lot size  
+2️⃣ **Property Type Distribution:** Single Family, Condo, Townhouse, etc.  
+3️⃣ **Median vs. Average Home Price:** Comparison across property types  
+4️⃣ **Property Features Summary:** Garage, spa, view, and other key amenities  
+5️⃣ **Geographic Overview:** Property distribution by ZIP code  
+
+---
+
+### 📍 Location View
+1️⃣ **Interactive Property Map:** Visualizes all Austin properties  
+2️⃣ **Price Range Slider:** Filter properties by selected price range  
+3️⃣ **Market Density Clustering:** Identify high-density housing zones  
+4️⃣ **Geographic Visualization:** Explore property concentrations across neighborhoods  
+
+---
+
+### 🎓 School View
+1️⃣ **School & Community Proximity:** Analyze housing areas near schools  
+2️⃣ **Educational Evaluation:** Assess property proximity to educational institutions  
+3️⃣ **Family-Centric Insights:** Understand how school access influences property desirability  
+
+---
+
+### 💡 Feature View
+1️⃣ **Feature Impact Analysis:** Explore how housing attributes (pool, garage, view, etc.) affect price  
+2️⃣ **AI-Driven Insights:** Identify correlations between features and market value  
+3️⃣ **Emerging Trends:** Track buyer interest and evolving housing preferences  
+
+---
+
