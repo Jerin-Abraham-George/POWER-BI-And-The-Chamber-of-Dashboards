@@ -34,8 +34,6 @@ It helps users explore property trends, evaluate buyer composition, and uncover 
 
 This is a **single-page Power BI dashboard** (with **bookmarks implemented**) that includes the following views:
 
----
-
 ### 🏠 Summary View
 1️⃣ **Overall Property Metrics:** Property count, median price, living area, and lot size  
 2️⃣ **Property Type Distribution:** Single Family, Condo, Townhouse, etc.  
