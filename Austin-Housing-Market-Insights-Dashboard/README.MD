@@ -43,7 +43,7 @@ This is a **single-page Power BI dashboard** (with **bookmarks implemented**) th
 4️⃣ **Property Features Summary:** Garage, spa, view, and other key amenities  
 5️⃣ **Geographic Overview:** Property distribution by ZIP code  
 
----
+====================================================================================================================================================================
 
 ### 📍 Location View
 1️⃣ **Interactive Property Map:** Visualizes all Austin properties  
@@ -51,14 +51,14 @@ This is a **single-page Power BI dashboard** (with **bookmarks implemented**) th
 3️⃣ **Market Density Clustering:** Identify high-density housing zones  
 4️⃣ **Geographic Visualization:** Explore property concentrations across neighborhoods  
 
----
+====================================================================================================================================================================
 
 ### 🎓 School View
 1️⃣ **School & Community Proximity:** Analyze housing areas near schools  
 2️⃣ **Educational Evaluation:** Assess property proximity to educational institutions  
 3️⃣ **Family-Centric Insights:** Understand how school access influences property desirability  
 
----
+====================================================================================================================================================================
 
 ### 💡 Feature View
 1️⃣ **Feature Impact Analysis:** Explore how housing attributes (pool, garage, view, etc.) affect price  
