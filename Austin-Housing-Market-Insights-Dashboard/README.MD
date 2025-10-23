@@ -4,6 +4,8 @@
 The **Austin Housing Dashboard** is an interactive Power BI solution designed to provide a comprehensive view of the real estate market in Austin, Texas.  
 It helps users explore property trends, evaluate buyer composition, and uncover key factors influencing home purchases and market value.
 
+https://github.com/user-attachments/assets/9b6c9c15-3e38-4ef5-96c5-3e13f6d18fe0
+
 ---
 
 ## 🎯 Objectives
