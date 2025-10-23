@@ -66,10 +66,10 @@ This is a **single-page Power BI dashboard** (with **bookmarks implemented**) th
 ## ✅ Result
 The **Austin Housing Dashboard** delivers a unified, insight-rich perspective on the Austin real estate market. It empowers users to explore market dynamics, buyer patterns, and value drivers through a single, interactive platform. Key outcomes include:
 
-🔍 **Market Intelligence:** Provides a consolidated view of property metrics—price, size, and type—offering quick insights into Austin’s housing trends.  
-📍 **Geospatial Insights:** Visualizes property distribution and market density across ZIP codes, highlighting key growth areas and investment zones.  
-🎓 **Community Awareness:** Evaluates school and community proximity, supporting family-oriented buyers in their home selection decisions.  
-💡 **Feature Analysis:** Identifies home features—such as pools, garages, and scenic views—that most influence property value and buyer appeal.  
-🎯 **Strategic Clarity:** Equips real estate professionals, investors, and homebuyers with actionable, data-backed insights for smarter housing and investment decisions.  
+- 🔍 **Market Intelligence:** Provides a consolidated view of property metrics—price, size, and type—offering quick insights into Austin’s housing trends.  
+- 📍 **Geospatial Insights:** Visualizes property distribution and market density across ZIP codes, highlighting key growth areas and investment zones.  
+- 🎓 **Community Awareness:** Evaluates school and community proximity, supporting family-oriented buyers in their home selection decisions.  
+- 💡 **Feature Analysis:** Identifies home features—such as pools, garages, and scenic views—that most influence property value and buyer appeal.  
+- 🎯 **Strategic Clarity:** Equips real estate professionals, investors, and homebuyers with actionable, data-backed insights for smarter housing and investment     decisions.  
 
 ---
