@@ -41,10 +41,10 @@ This dashboard enables finance teams, business leaders, and analysts to make dat
 This Power BI report is structured into four interactive pages, each focusing on a core aspect of financial performance.
 
 ### 🔎 Overview Page
-1️⃣ Displays top-level KPIs - **Revenue, Expense, Gross Profit, and Net Profit**
-2️⃣ Monthly breakdown of **Revenue vs. Expense**
-3️⃣ **Target vs. Actual** analysis for both revenue and expenses 
-4️⃣ **Business Line Contribution** breakdown
+- Displays top-level KPIs - **Revenue, Expense, Gross Profit, and Net Profit**
+- Monthly breakdown of **Revenue vs. Expense**
+- **Target vs. Actual** analysis for both revenue and expenses 
+- **Business Line Contribution** breakdown
 
 ### 💲 Profit Page
 1️⃣ Focuses on **Profitability Metrics**
