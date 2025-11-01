@@ -14,3 +14,24 @@ This dashboard enables finance teams, business leaders, and analysts to make dat
 - Compare actual vs. target values for key KPIs.
 - Identify major cost drivers and profit improvement areas.
 - Support budgeting, forecasting, and performance evaluation through real-time visuals.
+
+---
+
+## 🔑 Key Features
+- 📊 **Financial KPI Cards** showing Revenue, Expenses, Gross Profit, and Net Profit with variance indicators.
+- 📈 **Monthly Revenue & Expense Breakdown** for quick trend analysis.
+- 🏢 **Business Line Analysis** for Sports Equipment, Sportswear, and N&F Supplements.
+- 💵 **Profitability Metrics** including Gross Profit %, Net Profit %, and EBIT %.
+- 💡 **Expense Segmentation** by COGS, OPEX, and Interest & Tax.
+- 🎯 **Target vs. Actual** performance comparison visuals.
+- 🧭 **Multi-Page Navigation** with interactive buttons for seamless movement across dashboards.
+- 📃 **Income & Expense Statement** summaarized view.
+
+---
+
+## 🧰 Tools & Technologies
+- **Microsoft Power BI** – Dashboard creation and visualization  
+- **DAX (Data Analysis Expressions)** – Custom measures and KPIs  
+- **Power Query** – Data cleaning and transformation  
+
+---
