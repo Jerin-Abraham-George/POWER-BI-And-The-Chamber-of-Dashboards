@@ -47,7 +47,19 @@ This Power BI report is structured into four interactive pages, each focusing on
 - **Business Line Contribution** breakdown
 
 ### 💲 Profit Page
-1️⃣ Focuses on **Profitability Metrics**
-2️⃣ Visualizes **Gross Profit %, Net Profit %, and EBIT %** by month and quarter
-3️⃣ Compares **Operating Profit and COGS** over time
-4️⃣ Highlights **EBIT Performance** across business lines
+- Focuses on **Profitability Metrics**
+- Visualizes **Gross Profit %, Net Profit %, and EBIT %** by month and quarter
+- Compares **Operating Profit and COGS** over time
+- Highlights **EBIT Performance** across business lines
+
+### 🔻 Expense Page
+- Detailed view of **COGS, OPEX, and Interest & Tax**
+- Monthly and subgroup breakdowns (Labor, Materials, Marketing, R&D, etc.)
+- **Expense Contribution Analysis** by business line
+- Identification of **High-Cost Categories**
+
+### 📃 Income & Expense Statement
+- Consolidated overview of **Income &. Expenses Statement**
+
+---
+
