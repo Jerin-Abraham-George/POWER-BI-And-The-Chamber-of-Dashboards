@@ -6,6 +6,8 @@ It consolidates key financial KPIs such as Revenue, Expenses, Gross Profit, and 
 
 This dashboard enables finance teams, business leaders, and analysts to make data-driven decisions by uncovering insights into cost structures, margins, and growth opportunities.
 
+https://github.com/user-attachments/assets/bcfef61b-8e5c-40b1-969b-9b390a8cedf2
+
 ---
 
 ## 🎯 Objectives
