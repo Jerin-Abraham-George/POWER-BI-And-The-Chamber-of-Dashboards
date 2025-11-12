@@ -6,6 +6,8 @@ The **Sales Analysis Dashboard** is an interactive Power BI report designed to p
 
 This dashboard helps stakeholders monitor **sales trends, profitability, and cost efficiency** to make informed business decisions.
 
+https://github.com/user-attachments/assets/c64eebb3-d148-425d-baba-059ff5d69eac
+
 ---
 
 ## 🚀 Key Features
