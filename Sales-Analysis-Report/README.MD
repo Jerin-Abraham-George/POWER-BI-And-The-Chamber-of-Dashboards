@@ -78,9 +78,9 @@ This dashboard helps stakeholders monitor **sales trends, profitability, and cos
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI Desktop** – Dashboard development and data modeling  
-- **DAX (Data Analysis Expressions)** – Custom measures for sales & profit metrics 
-- **Excel/CSV Files** – Used for data import and preprocessing
+- **Power BI Desktop** – Dashboard development and data modeling.
+- **DAX (Data Analysis Expressions)** – Custom measures for sales & profit metrics. 
+- **Excel/CSV Files** – Used for data import and preprocessing.
 
 ---
 
