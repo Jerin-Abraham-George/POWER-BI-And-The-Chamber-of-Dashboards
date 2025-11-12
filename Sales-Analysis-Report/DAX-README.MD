@@ -1,6 +1,6 @@
 ## Dax Measures Used 🧮
 
-M_Date Selection = FORMAT(MIN(DIM_DATE[Reporting Period]),"MMM/YY")&" - "& FORMAT(MAX(DIM_DATE[Reporting Period]),"MMM/YY")
+- M_Date Selection = FORMAT(MIN(DIM_DATE[Reporting Period]),"MMM/YY")&" - "& FORMAT(MAX(DIM_DATE[Reporting Period]),"MMM/YY")
 
 M_Date/Time Last Refreshed = "Last Refreshed: "&FORMAT(VALUES(LAST_REFRESHED[Date Last Refreshed]),"mm.dd.yy")
 
