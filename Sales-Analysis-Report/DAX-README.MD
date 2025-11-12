@@ -1,4 +1,4 @@
-## Dax Measures Used
+## Dax Measures Used 🧮
 
 M_Date Selection = FORMAT(MIN(DIM_DATE[Reporting Period]),"MMM/YY")&" - "& FORMAT(MAX(DIM_DATE[Reporting Period]),"MMM/YY")
 
