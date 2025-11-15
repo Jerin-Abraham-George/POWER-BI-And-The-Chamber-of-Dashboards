@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/c64eebb3-d148-425d-baba-059ff5d69eac
 
 ---
 
-### 3️⃣ **Country Analysis**
+### 3️⃣ **Product Analysis**
 - Understand performance across different product segments:
   - Paseo
   - VTT
