@@ -69,3 +69,5 @@ This **HR Analytics Dashboard** is more than just a visualization tool — it's 
 - ⚠️ **Reduce Turnover in Key Teams**: Identify attrition in business-critical areas like Sales or Software.
 
 ---
+
+🧑‍💼🍿 *"All the drama of HR, condensed into charts you actually want to look at."*
