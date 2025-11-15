@@ -49,3 +49,5 @@ The MarketMindz Dashboard delivers a unified, insight-rich view of campaign perf
 - 🎯 **Strategic Clarity**: Empowers marketing teams to refine targeting, personalize outreach, and optimize ROI using data-backed decisions.
 
 ---
+
+👀📈 *“From ‘huh?’ to ‘aha!’—marketing insights without the headache (mostly).”*
