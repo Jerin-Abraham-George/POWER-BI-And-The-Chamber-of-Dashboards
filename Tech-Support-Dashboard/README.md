@@ -89,3 +89,5 @@ The dashboard uses a structured dataset containing:
 - Agent performance metrics  
 
 ---
+
+⏱️🙃 *"SLA compliance: 99% on paper, 70% in spirit."*
