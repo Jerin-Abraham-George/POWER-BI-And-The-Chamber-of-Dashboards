@@ -90,3 +90,6 @@ This dashboard revealed:
 - Streaming volume declined slightly year-over-year, suggesting seasonal or behavioral shifts
 - The United States remains the dominant market, followed by Brazil, UK, Mexico and India
 
+---
+
+🎧🤪 *"My ‘Top Artists’ are judging my life choices."*
