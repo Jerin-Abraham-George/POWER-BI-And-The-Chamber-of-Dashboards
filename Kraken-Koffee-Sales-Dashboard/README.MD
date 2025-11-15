@@ -106,3 +106,4 @@ This dashboard enabled Kraken Koffee’s leadership to:
 
 ---
 
+☕💸 *"Brewing up sales insights faster than you can say ‘extra shot of espresso!’"*
