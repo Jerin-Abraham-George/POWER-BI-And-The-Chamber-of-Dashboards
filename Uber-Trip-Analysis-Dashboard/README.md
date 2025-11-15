@@ -78,3 +78,6 @@ The dashboard uses a structured dataset containing:
 ### 3️⃣ Details Page
 • 	Drilldown table showing all the necessary details
 
+---
+
+🔴🟢 *“Red lights, green lights, and me questioning all my life choices.”*
