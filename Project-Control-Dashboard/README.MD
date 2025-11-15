@@ -85,3 +85,9 @@ This dashboard enabled project managers to:
 - Confirm overall project efficiency with CPI > 1.0 and SPI ≈ 1.0, indicating cost-effective execution
 - Optimize manpower allocation based on weekly trends
 - Forecast realistic completion dates and adjust resource planning accordingly
+
+---
+
+👷‍♀️📉 *"Because the only thing that should be behind schedule is the coffee break!"*
+
+
