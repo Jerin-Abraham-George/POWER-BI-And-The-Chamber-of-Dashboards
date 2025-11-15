@@ -87,4 +87,6 @@ Whether you're planning your monthly budget or analyzing year-over-year savings 
 
 > 📁 **Note:** This is a demo dashboard created for illustrative purposes. All data is fictitious.
 
+---
 
+💼💡 *"The only thing more organized than your finances will be this dashboard."*
