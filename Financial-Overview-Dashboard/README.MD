@@ -77,3 +77,5 @@ Key outcomes include:
 - 🏢 **Business Line Clarity:** Breaks down results by Sports Equipment, Sportswear, and N&F Supplements, providing a clear picture of segment-wise financial health.
 
 ---
+
+💰📊 *"Turning financial chaos into clarity, one KPI at a time."*
