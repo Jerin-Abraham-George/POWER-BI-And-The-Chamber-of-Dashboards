@@ -5,6 +5,8 @@ The Healthcare Analysis Dashboard is an interactive Power BI report designed to 
 
 With this dashboard, users can track key metrics such as the number of admitted patients, average stay, billing amounts, and more, while also analyzing trends in healthcare conditions, treatment types, and patient admissions over time.
 
+https://github.com/user-attachments/assets/1c68e040-7aba-4eeb-bf6e-e6159395d0c3
+
 ---
 
 ## 🎯 Objectives
