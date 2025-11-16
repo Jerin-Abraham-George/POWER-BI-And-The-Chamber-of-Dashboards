@@ -64,5 +64,5 @@ The Healthcare Analysis Dashboard empowers healthcare professionals to:
 
 ---
 
-❤️‍🩹❤️ *"Please please please STAY HAPPY, STAY SAFE & STAY AWESOME. DON'T BE A JERRY..."*
+❤️‍🩹❤️ *"Please Please Please STAY HAPPY, STAY SAFE & STAY AWESOME. DON'T BE A JERRY..."*
 
