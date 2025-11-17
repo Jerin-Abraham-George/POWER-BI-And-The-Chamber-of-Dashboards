@@ -2,7 +2,10 @@
 
 ## 📘 Overview
 The **Sports Product Sales Analysis Dashboard** is an interactive Power BI solution designed to provide a comprehensive overview of sales performance in the sports product industry.  
+
 It enables users to analyze total sales, profit, units sold, and average pricing across various products, sales methods, and regions.
+
+https://github.com/user-attachments/assets/ef881d9c-4c86-4a3a-b34e-ef57591c0004
 
 ---
 
