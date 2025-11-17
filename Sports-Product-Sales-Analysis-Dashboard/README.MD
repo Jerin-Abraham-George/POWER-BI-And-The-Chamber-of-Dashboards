@@ -66,5 +66,5 @@ The **Sports Product Sales Analysis Dashboard** provides a unified, interactive 
 
 ---
 
-🏅⚽ "Sales so good, even the mascot’s impressed!"
+🏅⚽ *"Sales so good, even the mascot’s impressed!"*
 
