@@ -37,3 +37,11 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Supports compliance with HIPAA/GDPR standards
 
 ---
+
+### 👤 Patient Last Name
+- **Description:** The patient’s last name (or anonymized equivalent).
+- **Purpose:**  
+  - Helps with internal reference  
+  - Can support trend analysis across naming or cultural groupings (when anonymized)
+
+---
