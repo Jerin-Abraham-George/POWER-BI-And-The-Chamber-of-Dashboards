@@ -79,3 +79,14 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Assist with staffing and resource allocation
 
 ---
+
+### ✅ Patient Admin Flag
+- **Description:** Indicates whether the patient was admitted to the hospital.
+- **Values:**
+  - **True:** Patient admitted for further treatment or observation
+  - **False:** Patient discharged or referred externally
+- **Purpose:**  
+  - Measure ER-to-admission rates  
+  - Analyze severity and case outcomes
+
+---
