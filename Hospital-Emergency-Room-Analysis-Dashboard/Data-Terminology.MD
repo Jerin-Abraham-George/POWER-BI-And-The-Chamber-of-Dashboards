@@ -90,3 +90,12 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Analyze severity and case outcomes
 
 ---
+
+### ⭐ Patient Satisfaction Score
+- **Description:** Numeric rating reflecting the patient’s ER experience.
+- **Typical Scale:** 1–5 or 1–10
+- **Purpose:**  
+  - Evaluate service quality  
+  - Identify areas for operational improvement
+
+---
