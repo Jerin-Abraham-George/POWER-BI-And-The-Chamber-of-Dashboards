@@ -54,3 +54,11 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Identifying gender-based healthcare disparities
 
 ---
+
+### 🎂 Patient Age
+- **Description:** Age of the patient at the time of ER admission.
+- **Purpose:**  
+  - Age-group trend analysis  
+  - Identifying high-risk or frequent-visit age brackets
+
+---
