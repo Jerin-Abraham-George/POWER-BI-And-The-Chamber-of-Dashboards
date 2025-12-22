@@ -9,3 +9,14 @@ The purpose of this file is to ensure clarity, consistency, and transparency for
 All fields are designed with **data privacy**, **healthcare compliance**, and **analytical accuracy** in mind.
 
 ---
+
+## 📊 Dataset Terminology
+
+### 🆔 Patient ID
+- **Description:** A unique alphanumeric identifier assigned to each patient.
+- **Purpose:**  
+  - Serves as the primary key  
+  - Ensures accurate tracking of patient records  
+  - Maintains anonymity while enabling analysis
+
+---
