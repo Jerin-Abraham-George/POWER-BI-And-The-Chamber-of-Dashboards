@@ -6,6 +6,8 @@ It provides a comprehensive view of patient flow, wait times, admissions, referr
 
 This dashboard supports **monthly analysis**, **long-term consolidated insights**, and **patient-level drill-downs** through an intuitive, user-friendly interface.
 
+https://github.com/user-attachments/assets/2abfeea4-43a1-49eb-8709-ce6b9b849b9d
+
 ---
 
 ## 🎯 Objectives
