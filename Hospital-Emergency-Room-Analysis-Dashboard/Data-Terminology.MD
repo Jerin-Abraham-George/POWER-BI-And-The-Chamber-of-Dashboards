@@ -29,3 +29,11 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Evaluate emergency response demand
 
 ---
+
+### 🔤 Patient First Initial
+- **Description:** The first letter of the patient’s first name.
+- **Purpose:**  
+  - Used for anonymization  
+  - Supports compliance with HIPAA/GDPR standards
+
+---
