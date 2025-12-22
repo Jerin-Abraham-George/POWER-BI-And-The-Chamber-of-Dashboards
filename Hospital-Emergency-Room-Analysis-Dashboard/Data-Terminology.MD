@@ -45,3 +45,12 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Can support trend analysis across naming or cultural groupings (when anonymized)
 
 ---
+
+### ⚧ Patient Gender
+- **Description:** Gender identity of the patient.
+- **Common Values:** Male, Female, Other / Nonbinary
+- **Purpose:**  
+  - Demographic analysis  
+  - Identifying gender-based healthcare disparities
+
+---
