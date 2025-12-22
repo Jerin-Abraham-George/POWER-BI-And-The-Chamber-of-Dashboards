@@ -70,3 +70,12 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Studying access, outcomes, and disparities in healthcare delivery
 
 ---
+
+### 🏥 Department Referral
+- **Description:** The hospital department the patient was referred to after ER evaluation.
+- **Examples:** Orthopedics, Cardiology, Pediatrics
+- **Purpose:**  
+  - Understand departmental demand  
+  - Assist with staffing and resource allocation
+
+---
