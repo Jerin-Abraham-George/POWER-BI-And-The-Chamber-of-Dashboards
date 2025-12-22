@@ -20,3 +20,12 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Maintains anonymity while enabling analysis
 
 ---
+
+### 📅 Patient Admission Date
+- **Description:** The date (and time, if applicable) when the patient was admitted to the Emergency Room.
+- **Purpose:**  
+  - Identify peak admission hours  
+  - Analyze seasonal and daily trends  
+  - Evaluate emergency response demand
+
+---
