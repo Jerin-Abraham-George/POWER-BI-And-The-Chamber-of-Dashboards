@@ -107,3 +107,11 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Patient experience and bottleneck identification
 
 ---
+
+### 🧑‍⚕️ Patients CM (Case Manager)
+- **Description:** Assigned case manager responsible for coordinating patient care.
+- **Purpose:**  
+  - Track workload distribution  
+  - Analyze care coordination efficiency and outcomes
+
+---
