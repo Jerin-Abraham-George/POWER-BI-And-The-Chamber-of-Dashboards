@@ -62,3 +62,11 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Identifying high-risk or frequent-visit age brackets
 
 ---
+
+### 🌍 Patient Race
+- **Description:** Self-reported racial or ethnic identity.
+- **Purpose:**  
+  - Equity and inclusion analysis  
+  - Studying access, outcomes, and disparities in healthcare delivery
+
+---
