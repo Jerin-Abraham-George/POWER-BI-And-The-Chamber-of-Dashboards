@@ -99,3 +99,11 @@ All fields are designed with **data privacy**, **healthcare compliance**, and **
   - Identify areas for operational improvement
 
 ---
+
+### ⏱ Patient Wait Time
+- **Description:** Time elapsed from ER arrival to first medical interaction.
+- **Purpose:**  
+  - Operational efficiency analysis  
+  - Patient experience and bottleneck identification
+
+---
