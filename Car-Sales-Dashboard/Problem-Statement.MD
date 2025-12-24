@@ -35,3 +35,8 @@ The dashboard must provide **real-time insights** into key performance indicator
 
 ## 📈 Problem Statement 2: Charts & Visualization Requirements
 The dashboard should include the following visualizations to enhance clarity and usability:
+
+1. **YTD Sales Weekly Trend**  
+   - Line chart illustrating weekly YTD sales trends  
+   - X-axis: Weeks | Y-axis: Total Sales Amount  
+
