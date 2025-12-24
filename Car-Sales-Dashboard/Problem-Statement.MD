@@ -40,3 +40,5 @@ The dashboard should include the following visualizations to enhance clarity and
    - Line chart illustrating weekly YTD sales trends  
    - X-axis: Weeks | Y-axis: Total Sales Amount  
 
+2. **YTD Total Sales by Body Style**  
+   - Pie chart showing distribution of YTD sales across car body styles 
