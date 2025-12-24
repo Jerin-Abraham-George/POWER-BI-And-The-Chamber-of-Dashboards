@@ -32,3 +32,6 @@ The dashboard must provide **real-time insights** into key performance indicator
 - Difference between YTD Cars Sold and PTYD Cars Sold  
 
 ---
+
+## 📈 Problem Statement 2: Charts & Visualization Requirements
+The dashboard should include the following visualizations to enhance clarity and usability:
