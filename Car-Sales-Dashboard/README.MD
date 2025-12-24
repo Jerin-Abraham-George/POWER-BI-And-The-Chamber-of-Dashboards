@@ -7,6 +7,8 @@ This dashboard provides **year-to-date (YTD)** and **month-to-date (MTD)** insig
 
 The report is structured with **high-level executive KPIs**, **visual trend analysis**, and **detailed transactional views**, all supported by **dynamic filters** for deep exploration.
 
+https://github.com/user-attachments/assets/1ec073b4-5892-47a2-811c-620bc6c78aae
+
 ---
 
 ## 🎯 Objectives
