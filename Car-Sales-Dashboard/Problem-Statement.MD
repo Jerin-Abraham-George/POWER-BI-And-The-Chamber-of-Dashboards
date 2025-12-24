@@ -10,3 +10,12 @@ The primary objective of this project is to **design and develop a dynamic, inte
 
 ---
 
+## 📊 Problem Statement 1: KPI Requirements
+The dashboard must provide **real-time insights** into key performance indicators (KPIs) to support strategic monitoring and growth analysis.  
+
+### 1. Sales Overview
+- Year-to-Date (YTD) Total Sales  
+- Month-to-Date (MTD) Total Sales  
+- Year-over-Year (YOY) Growth in Total Sales  
+- Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales  
+
