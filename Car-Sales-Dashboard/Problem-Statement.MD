@@ -52,3 +52,14 @@ The dashboard should include the following visualizations to enhance clarity and
 5. **Company-Wise Sales Trend (Grid View)**  
    - Tabular grid displaying company names with corresponding YTD sales figures  
 
+6. **Detailed Sales Grid**  
+   - Comprehensive table with transaction-level details including:  
+     - Car Model  
+     - Body Style  
+     - Color  
+     - Sales Amount  
+     - Dealer Region  
+     - Sale Date  
+
+---
+
