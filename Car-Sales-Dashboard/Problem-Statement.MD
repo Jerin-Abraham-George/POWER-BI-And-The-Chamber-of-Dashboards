@@ -24,3 +24,11 @@ The dashboard must provide **real-time insights** into key performance indicator
 - MTD Average Price  
 - YOY Growth in Average Price  
 - Difference between YTD Average Price and PTYD Average Price  
+
+### 3. Cars Sold Metrics
+- YTD Cars Sold  
+- MTD Cars Sold  
+- YOY Growth in Cars Sold  
+- Difference between YTD Cars Sold and PTYD Cars Sold  
+
+---
