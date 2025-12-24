@@ -5,3 +5,8 @@ Our company operates as a car dealership offering a wide range of automobile mod
 
 ---
 
+## 🎯 Objective
+The primary objective of this project is to **design and develop a dynamic, interactive Car Sales Dashboard** using Power BI. The dashboard will visualize critical KPIs related to car sales, enabling stakeholders to evaluate performance over time and make informed business decisions.
+
+---
+
