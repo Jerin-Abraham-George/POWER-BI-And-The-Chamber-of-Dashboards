@@ -48,3 +48,7 @@ The dashboard should include the following visualizations to enhance clarity and
 
 4. **YTD Cars Sold by Dealer Region**  
    - Map chart visualizing geographic distribution of YTD car sales  
+
+5. **Company-Wise Sales Trend (Grid View)**  
+   - Tabular grid displaying company names with corresponding YTD sales figures  
+
