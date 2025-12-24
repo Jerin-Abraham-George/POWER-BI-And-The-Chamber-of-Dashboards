@@ -19,3 +19,8 @@ The dashboard must provide **real-time insights** into key performance indicator
 - Year-over-Year (YOY) Growth in Total Sales  
 - Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales  
 
+### 2. Average Price Analysis
+- YTD Average Price  
+- MTD Average Price  
+- YOY Growth in Average Price  
+- Difference between YTD Average Price and PTYD Average Price  
