@@ -63,3 +63,13 @@ The dashboard should include the following visualizations to enhance clarity and
 
 ---
 
+## ✅ Expected Outcome
+By implementing this dashboard, the dealership will gain:  
+- Clear visibility into **sales performance trends**  
+- Enhanced ability to **compare YTD, MTD, and YOY metrics**  
+- Improved insights into **pricing strategies and customer preferences**  
+- Geographic analysis of **dealer region performance**  
+- Transaction-level transparency for **audits and operational reviews**  
+
+---
+
