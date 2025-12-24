@@ -46,3 +46,5 @@ The dashboard should include the following visualizations to enhance clarity and
 3. **YTD Total Sales by Color**  
    - Pie chart presenting contribution of car colors to YTD sales  
 
+4. **YTD Cars Sold by Dealer Region**  
+   - Map chart visualizing geographic distribution of YTD car sales  
