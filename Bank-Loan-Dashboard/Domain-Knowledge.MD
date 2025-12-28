@@ -28,4 +28,15 @@ Borrowers initiate the process by submitting applications through physical branc
 The institution reviews submitted documents, including income statements, credit reports, and identification records.
 
 ### 3. Identity Verification
+Verification ensures authenticity of the applicant and mitigates risks of identity theft.
+
+### 4. Credit Check
+Credit reports are assessed to evaluate credit scores, repayment history, and any prior defaults.
+
+### 5. Income Verification
+Borrowers’ repayment capacity is validated through pay stubs, tax returns, or other income documentation.
+
+### 6. Debt-to-Income (DTI) Ratio
+The DTI ratio is calculated to measure repayment ability. Lower ratios indicate stronger repayment capacity.
+
 
