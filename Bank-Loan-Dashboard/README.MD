@@ -8,4 +8,16 @@ This dashboard enables financial analysts, risk teams, and decision-makers to ev
 
 ---
 
+## 🎯 Objectives
+The primary objectives of this dashboard are to:
+
+- Analyze overall loan application and funding performance  
+- Track month-to-date (MTD) and month-over-month (MoM) growth  
+- Evaluate Good vs Bad loans and their financial impact  
+- Monitor repayment trends and total amount received  
+- Analyze loan performance by purpose, state, term, grade, and employment length  
+- Support risk assessment using interest rate and DTI metrics  
+
+---
+
 
