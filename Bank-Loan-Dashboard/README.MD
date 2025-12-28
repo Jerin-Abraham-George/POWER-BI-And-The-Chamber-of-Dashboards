@@ -50,6 +50,91 @@ The primary objectives of this dashboard are to:
 
 ---
 
+### 🌍 Geographic Distribution
+- **State-wise funded amount map**  
+- Identifies high-performing and underperforming regions  
+- Useful for **regional strategy and expansion planning**  
+
+---
+
+### ⏳ Loan Term & Borrower Profile Insights
+**Loan Term Analysis:**
+- 36 Months: $162.7M (37.34%)  
+- 60 Months: $273.0M (62.66%)  
+
+**Employment Length Impact:**
+- Highest funding from borrowers with **10+ years of employment**  
+- Strong correlation between **job stability and loan approvals**  
+
+---
+
+### 🎯 Loan Purpose & Home Ownership
+**Top Loan Purposes:**
+- Debt Consolidation  
+- Credit Card  
+- Home Improvement  
+- Small Business  
+
+**Home Ownership Breakdown:**
+- Mortgage: $219.3M  
+- Rent: $185.8M  
+
+---
+
+### 📋 Detailed Loan-Level View
+Fully interactive **Details page** with:
+- Loan ID  
+- Purpose  
+- Home Ownership  
+- Grade & Sub-grade  
+- Issue Date  
+- Funded Amount  
+- Interest Rate  
+- Installments  
+- Amount Collected  
+
+➡️ Allows **deep-dive analysis** at an individual loan level.
+
+---
+
+## 🧰 Tools & Technologies
+- **Power BI Desktop** – Dashboard design & visualization  
+- **DAX (Data Analysis Expressions)** – Custom KPIs, MTD & MoM calculations  
+- **Excel / CSV Dataset** – Data source and preprocessing  
+
+---
+
+## 🧭 Dashboard Structure
+The dashboard is structured into **three interactive pages**:
+
+1. **Summary**
+   - High-level KPIs  
+   - Good vs Bad loan comparison  
+   - Loan status overview  
+
+2. **Overview**
+   - Monthly trends  
+   - State-wise funding  
+   - Loan purpose, term, and borrower analysis  
+
+3. **Details**
+   - Loan-level granular data  
+   - Advanced filtering for deep insights  
+
+---
+
+## ✅ Business Impact
+This dashboard helps stakeholders to:
+
+- Monitor loan portfolio health in real time  
+- Identify risky loan segments early  
+- Track repayment efficiency and revenue generation  
+- Support data-driven lending and risk decisions  
+- Improve transparency across loan operations  
+
+---
+
+
 
 ---
 
