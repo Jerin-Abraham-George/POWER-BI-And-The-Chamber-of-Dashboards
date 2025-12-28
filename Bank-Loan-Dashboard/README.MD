@@ -32,3 +32,14 @@ The primary objectives of this dashboard are to:
 
 ---
 
+### 🟢 Good vs 🔴 Bad Loan Analysis
+
+| Loan Type   | Applications | Funded Amount | Amount Received |
+|-------------|--------------|---------------|-----------------|
+| **Good Loans** | 33.2K (86.2%) | $370.2M       | $435.8M         |
+| **Bad Loans**  | 5.3K (13.8%)  | $65.5M        | $37.3M          |
+
+✔️ Visual **donut charts** clearly highlight portfolio quality and risk exposure.
+
+---
+
