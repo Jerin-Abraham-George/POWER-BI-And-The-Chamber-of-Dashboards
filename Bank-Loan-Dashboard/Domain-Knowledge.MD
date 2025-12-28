@@ -39,4 +39,16 @@ Borrowers’ repayment capacity is validated through pay stubs, tax returns, or 
 ### 6. Debt-to-Income (DTI) Ratio
 The DTI ratio is calculated to measure repayment ability. Lower ratios indicate stronger repayment capacity.
 
+### 7. Employment Verification
+Employers may be contacted to confirm employment status and tenure. Stable employment is considered favorable.
+
+### 8. Collateral Assessment (if applicable)
+For secured loans, collateral such as property or vehicles is evaluated for value and condition.
+
+### 9. Risk Assessment
+Overall loan risk is assessed by considering creditworthiness, income stability, and loan purpose.
+
+### 10. Loan Approval or Denial
+Based on the assessment, the institution decides whether to approve or reject the loan. Approved loans include defined terms, interest rates, and repayment schedules.
+
 
