@@ -134,7 +134,5 @@ This dashboard helps stakeholders to:
 
 ---
 
-
-
----
+*“Turning loan data into smarter financial decisions.”*
 
