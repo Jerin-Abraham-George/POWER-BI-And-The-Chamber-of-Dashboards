@@ -41,6 +41,8 @@ The primary objectives of this dashboard are to:
 
 ✔️ Visual **donut charts** clearly highlight portfolio quality and risk exposure.
 
+---
+
 ### 📈 Loan Trends Over Time
 - Monthly Funded Amount Analysis shows consistent growth throughout the year  
 - Peak funding observed in **December ($54M)**  
