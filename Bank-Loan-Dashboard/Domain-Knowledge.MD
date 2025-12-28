@@ -18,3 +18,14 @@ Banks gather loan data from the following key sources:
 - **Third-party Data Sources**: External services, such as income verification providers, may be used to supplement borrower information.  
 
 ---
+
+## 🔄 Loan Approval Process
+
+### 1. Loan Application
+Borrowers initiate the process by submitting applications through physical branches, online platforms, or other channels.
+
+### 2. Application Review
+The institution reviews submitted documents, including income statements, credit reports, and identification records.
+
+### 3. Identity Verification
+
