@@ -51,4 +51,18 @@ Overall loan risk is assessed by considering creditworthiness, income stability,
 ### 10. Loan Approval or Denial
 Based on the assessment, the institution decides whether to approve or reject the loan. Approved loans include defined terms, interest rates, and repayment schedules.
 
+### 11. Loan Agreement
+A formal agreement outlines loan conditions, repayment obligations, and applicable fees.
+
+### 12. Disbursement of Funds
+Funds are released to the borrower for the specified purpose upon agreement execution.
+
+### 13. Repayment
+Borrowers are obligated to make scheduled payments covering both principal and interest.
+
+### 14. Ongoing Monitoring
+Banks continuously monitor loan performance, repayment behavior, and potential delinquencies throughout the loan lifecycle.
+
+---
+
 
