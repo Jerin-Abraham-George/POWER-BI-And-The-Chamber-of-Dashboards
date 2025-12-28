@@ -6,6 +6,8 @@ It provides a **360° view** of loan applications, funded amounts, repayments, i
 
 This dashboard enables financial analysts, risk teams, and decision-makers to evaluate loan quality, track growth trends, and identify potential risk areas with clarity and speed.
 
+https://github.com/user-attachments/assets/6a6f50cd-127a-405d-a415-db844fafe5cf
+
 ---
 
 ## 🎯 Objectives
