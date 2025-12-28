@@ -20,4 +20,15 @@ The primary objectives of this dashboard are to:
 
 ---
 
+## 🌟 Key Features
+
+### ✅ Executive Summary (KPI Snapshot)
+- **Total Loan Applications:** 38.6K  
+- **Total Funded Amount:** $435.8M  
+- **Total Amount Received:** $473.1M  
+- **Average Interest Rate:** 12.05%  
+- **Average DTI:** 13.33%  
+- **MTD & MoM Growth Indicators** for all major KPIs  
+
+---
 
