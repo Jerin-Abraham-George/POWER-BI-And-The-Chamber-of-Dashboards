@@ -2,6 +2,8 @@
 
 An interactive **Power BI HR Analytics dashboard** designed to provide deep insights into employee attrition, career growth, compensation fairness, performance, and satisfaction—helping HR leaders make data-driven workforce decisions.
 
+https://github.com/user-attachments/assets/2a7614a7-6c88-4a11-aaa3-746ebdb6aadc
+
 ---
 
 ## 🔍 Overview
