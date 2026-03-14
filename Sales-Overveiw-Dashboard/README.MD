@@ -1,4 +1,4 @@
-# 📊 Sales Overview Dashboard | Power BI
+# 📊 Sales Overview Dashboard
 
 ## 🧩 Overview
 
@@ -7,6 +7,8 @@ The **Sales Overview Dashboard** is an interactive **Power BI report** designed 
 It provides a **comprehensive view of Sales, Profit, and Quantity (Qty)** with dynamic filters, enabling stakeholders to easily track **year-over-year (YoY) performance**, identify **regional trends**, and uncover **key business insights**.
 
 The dashboard allows users to switch between **Sales, Profit, and Quantity metrics** while dynamically updating all visuals for deeper analysis.
+
+https://github.com/user-attachments/assets/f8c1f907-3e17-4ec0-9994-ac257e2ad489
 
 ---
 
