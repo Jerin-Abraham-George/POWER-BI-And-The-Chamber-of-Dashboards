@@ -1,4 +1,4 @@
-# 🍽️ Zomato Sales Performance Dashboard
+# 🍽️ Zomato Sales Dashboard
 
 ## 📌 Overview
 The Zomato Sales Performance Dashboard is an interactive **Power BI** solution designed to analyze and visualize food delivery business performance across multiple cities. It provides a comprehensive view of sales, orders, user activity, and customer engagement, enabling data-driven insights into operational and market trends.
