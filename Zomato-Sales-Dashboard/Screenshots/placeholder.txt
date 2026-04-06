@@ -1,0 +1,2 @@
+# Uploading screenshots of the dashboard here.
+# Reason of not uploading dashboard? --> Dashboard size is around 70MB which exceeds GitHub's upload limit of 10MB... Well such is life!
