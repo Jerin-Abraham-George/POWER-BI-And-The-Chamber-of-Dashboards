@@ -5,6 +5,8 @@ The **Cyber Security Dashboard** is an interactive Power BI solution designed to
 
 This dashboard provides security teams, SOC analysts, and decision-makers with real-time visibility into critical cybersecurity KPIs, helping organizations proactively identify risks, improve response times, and strengthen overall security posture.
 
+https://github.com/user-attachments/assets/30586030-0dee-464c-a03d-bda57bc7d561
+
 ---
 
 ## ⚙️ Features
