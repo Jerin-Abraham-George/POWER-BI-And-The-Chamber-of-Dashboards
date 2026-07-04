@@ -8,6 +8,8 @@ The dashboard enables users to explore market trends through dynamic filters, co
 
 It also provides detailed portfolio statistics, property distribution, furnishing insights, and country-wise analysis to support better real estate decision-making.
 
+https://github.com/user-attachments/assets/c06d7819-d6ae-4f0b-afd7-7ce01570cd6b
+
 ---
 
 # 🚀 Key Features
