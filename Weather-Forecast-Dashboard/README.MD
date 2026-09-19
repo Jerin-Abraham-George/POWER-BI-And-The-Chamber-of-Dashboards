@@ -301,3 +301,5 @@ Key highlights include:
 
 ---
 
+🔴🟢 *“"Turning weather data into clear, actionable visual insights — one forecast at a time.”*
+
