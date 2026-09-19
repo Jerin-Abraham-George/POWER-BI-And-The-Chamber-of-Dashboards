@@ -8,6 +8,8 @@ The dashboard focuses on **Lucknow** and combines multiple weather parameters in
 
 > 📌 **Note:** The dashboard screenshot represents the weather data available at the time of the displayed update (**23 July**). Values shown in the dashboard should be treated as a snapshot of the underlying weather dataset.
 
+https://github.com/user-attachments/assets/798c6270-0e58-4e61-9e25-e059867d026b
+
 ---
 
 ## 🎯 Objectives
